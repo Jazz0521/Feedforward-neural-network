@@ -8,4 +8,4 @@ network has 10 hidden layers, each layer having 10 neurons.
 sigmoid)
 Train your network using ADAM optimizer, with 64 batch size, learning rate 0.0001 and error function is
 cross entropy. Use batch normalization. You must train and test your model on the training set and the
-test set given in the following link: http://yann.lecun.com/exdb/mnist/
+test set given in the following link: http://yann.lecun.com/exdb/mnist/ 
